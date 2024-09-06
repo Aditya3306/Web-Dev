@@ -1,0 +1,5 @@
+Self-Closing Tags
+Self-closing tags are HTML elements that do not require a closing tag and do not contain any content within them.
+
+Meta Tags
+Meta tags are HTML elements that provide metadata about a webpage, such as its description, author, and viewport settings, and are used primarily for SEO and browser configuration.

@@ -1,0 +1,1 @@
+The nesting operator in Emmet (>) allows you to create parent-child relationships between HTML elements efficiently. It specifies that one element should be nested inside another, helping to build hierarchical structures quickly in your HTML code.

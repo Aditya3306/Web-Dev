@@ -1,0 +1,2 @@
+Global attributes are applicable to all HTML elements, regardless of their specific type.
+They enhance functionality, such as styling, scripting, or providing additional information.

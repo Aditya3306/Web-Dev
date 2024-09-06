@@ -1,0 +1,8 @@
+Emmet is a plugin for text editors that speeds up HTML and CSS coding by expanding abbreviations into complete code.
+
+Advantages:
+
+Speed
+Efficiency
+Flexibility
+Customization

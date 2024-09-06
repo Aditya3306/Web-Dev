@@ -1,0 +1,7 @@
+
+
+Tags: Tags are the building blocks of HTML, used to define and structure content on a webpage. They are enclosed in angle brackets, e.g., <p>. Tags usually come in pairs: an opening tag (<p>) and a closing tag (</p>).
+
+Elements: An element is a complete HTML structure consisting of an opening tag, content, and a closing tag. For example, <p>This is a paragraph.</p> is a paragraph element where <p> is the tag, and "This is a paragraph." is the content.
+
+Attributes: Attributes provide additional information about an element and are included in the opening tag. They come in name-value pairs, e.g., id="header", class="main". Attributes specify details like an image's source or a link's destination.

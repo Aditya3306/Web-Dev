@@ -1,0 +1,8 @@
+1.<h1>:
+   - *Explanation*: The <h1> tag represents the highest level of heading in HTML. It is used to define the main heading of a document or section. It helps with the organization of content and is important for SEO as it indicates the primary topic of the page.
+
+2. <p>:
+   - *Explanation*: The <p> tag defines a paragraph of text. It is a block-level element that creates a new block of text with space above and below it, helping to structure and separate text content into readable sections.
+
+3. <a>:
+   - *Explanation*: The <a> tag is used to create hyperlinks. It allows users to click and navigate to another webpage, file, or resource. The href attribute specifies the URL or destination of the link.
